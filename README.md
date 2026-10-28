@@ -1,6 +1,5 @@
 # 💫 About Me:
-i am a student exploring the world of coding and project building <br> i am in b tech first year linked in Vaida Satyam <br>
-
+i am a student exploring the world of coding and project building <br> i am in b tech first year
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyam_41332) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaida Satyam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaidasatyam290409@gmail.com) 
